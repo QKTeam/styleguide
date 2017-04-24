@@ -1,8 +1,8 @@
 # 晴空工作室编码规范
 
-+ [ ] HTML
-+ [ ] CSS
++ [x] HTML
++ [x] CSS
 + [ ] JavaScript
-+ [ ] PHP
++ [x] PHP
 + [ ] Java
 + [ ] Objective-C
